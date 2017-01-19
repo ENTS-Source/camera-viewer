@@ -23,7 +23,7 @@ module.exports = {
     assetsSubDirectory: 'public/static',
     assetsPublicPath: '/',
     proxyTable: {
-      '/api/v1/camera/names': 'http://localhost:3050'
+      '/api': 'http://localhost:3050'
     },
     // CSS Sourcemaps off by default because relative paths are "buggy"
     // with this option, according to the CSS-Loader README

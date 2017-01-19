@@ -1,0 +1,28 @@
+{
+  "_README": "Copy this file to app.json in this directory and change the settings as required.",
+  "source": {
+    "type": "BlueIris",
+    "url": "http://username:password@space.ents.ca:4597",
+    "quality": 40
+  },
+  "limits": {
+    "windowMinutes": 15,
+    "requestsPerWindow": 300,
+    "delayMs": 0
+  },
+  "refreshSeconds": 10,
+  "cameras": {
+    "MAINROOM": {
+      "friendlyName": "Mainroom"
+    },
+    "WOODSHOP": {
+      "friendlyName": "Woodshop"
+    },
+    "METALSHOP": {
+      "friendlyName": "Metalshop"
+    },
+    "HALLWAY": {
+      "friendlyName": "Hallway"
+    }
+  }
+}
