@@ -2,5 +2,6 @@
 node_modules/
 dist/
 npm-debug.log
+npm-debug.log.*
 .idea/
 config/app.json
