@@ -13,16 +13,20 @@
   "refreshSeconds": 10,
   "cameras": {
     "MAINROOM": {
-      "friendlyName": "Mainroom"
+      "friendlyName": "Mainroom",
+      "name": "MAINROOM"
     },
-    "WOODSHOP": {
-      "friendlyName": "Woodshop"
+    "WOODSHOP1": {
+      "friendlyName": "Woodshop 1",
+      "name": "WOODSHOP1"
     },
-    "METALSHOP": {
-      "friendlyName": "Metalshop"
+    "METALSHOP1": {
+      "friendlyName": "Metalshop 1",
+      "name": "METALSHOP1"
     },
     "HALLWAY": {
-      "friendlyName": "Hallway"
+      "friendlyName": "Hallway",
+      "name": "HALLWAY"
     }
   }
 }
