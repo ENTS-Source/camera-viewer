@@ -2,6 +2,10 @@
 
 > ENTS web portal to view camera snapshots
 
+## End of life
+
+This project is no longer maintained and has been discontinued.
+
 ## Build Setup
 
 ``` bash
